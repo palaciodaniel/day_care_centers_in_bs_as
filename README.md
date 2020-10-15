@@ -1,8 +1,8 @@
 # Visualizing Day Care Centers in Buenos Aires with GeoPandas
 
-**DISCLAIMER:** The following project was only made for demonstrative purposes, to show my current skills with GeoPandas, Data Cleaning and Data Visualization in general. If for any reason you really need this information, please enter the following [official link](https://www.buenosaires.gob.ar/desarrollohumanoyhabitat/personasmayores/centrosdedia), where you will find updated data from the government.
-
 <img src="https://github.com/palaciodaniel/day_care_centers_in_bs_as/blob/main/bsas_daycenters.png" width="950">
+
+**ATTENTION:** The following project was only made for demonstrative purposes, to show my current skills with GeoPandas, Data Cleaning and Data Visualization in general. If for any reason you really need this information, please enter the following [official link](https://www.buenosaires.gob.ar/desarrollohumanoyhabitat/personasmayores/centrosdedia), where you will find updated data from the government.
 
 ## Credits
 
